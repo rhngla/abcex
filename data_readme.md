@@ -1,6 +1,6 @@
 ### Scripts to download
 
-Note: Downloading with these scripts requires `aws cli`. The links are obtained from this [notebook]()
+Note: Downloading with these scripts requires `aws cli`. 
 
 ```bash
 
